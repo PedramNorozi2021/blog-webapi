@@ -1,0 +1,15 @@
+C:\Users\FartakArjanCo\source\repos\BlogApp\Blog.Core\bin\Debug\net6.0\Blog.Core.deps.json
+C:\Users\FartakArjanCo\source\repos\BlogApp\Blog.Core\bin\Debug\net6.0\Blog.Core.dll
+C:\Users\FartakArjanCo\source\repos\BlogApp\Blog.Core\bin\Debug\net6.0\ref\Blog.Core.dll
+C:\Users\FartakArjanCo\source\repos\BlogApp\Blog.Core\bin\Debug\net6.0\Blog.Core.pdb
+C:\Users\FartakArjanCo\source\repos\BlogApp\Blog.Core\obj\Debug\net6.0\Blog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FartakArjanCo\source\repos\BlogApp\Blog.Core\obj\Debug\net6.0\Blog.Core.AssemblyInfoInputs.cache
+C:\Users\FartakArjanCo\source\repos\BlogApp\Blog.Core\obj\Debug\net6.0\Blog.Core.AssemblyInfo.cs
+C:\Users\FartakArjanCo\source\repos\BlogApp\Blog.Core\obj\Debug\net6.0\Blog.Core.csproj.CoreCompileInputs.cache
+C:\Users\FartakArjanCo\source\repos\BlogApp\Blog.Core\obj\Debug\net6.0\Blog.Core.dll
+C:\Users\FartakArjanCo\source\repos\BlogApp\Blog.Core\obj\Debug\net6.0\ref\Blog.Core.dll
+C:\Users\FartakArjanCo\source\repos\BlogApp\Blog.Core\obj\Debug\net6.0\Blog.Core.pdb
+C:\Users\FartakArjanCo\source\repos\BlogApp\Blog.Core\obj\Debug\net6.0\Blog.Core.csproj.AssemblyReference.cache
+C:\Users\FartakArjanCo\source\repos\BlogApp\Blog.Core\bin\Debug\net6.0\Blog.Data.dll
+C:\Users\FartakArjanCo\source\repos\BlogApp\Blog.Core\bin\Debug\net6.0\Blog.Data.pdb
+C:\Users\FartakArjanCo\source\repos\BlogApp\Blog.Core\obj\Debug\net6.0\Blog.Core.csproj.CopyComplete

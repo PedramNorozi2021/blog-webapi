@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog.WebApi", "Blog.WebApi\Blog.WebApi.csproj", "{A65D2C16-18B4-4A81-823A-DE8782F24036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog.Data", "Blog.Data\Blog.Data.csproj", "{F6D74258-34D7-4E28-90DA-E00B7466608A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog.Core", "Blog.Core\Blog.Core.csproj", "{B7DF419C-FE50-48C4-987F-16DC5E3E46AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65D2C16-18B4-4A81-823A-DE8782F24036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65D2C16-18B4-4A81-823A-DE8782F24036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65D2C16-18B4-4A81-823A-DE8782F24036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65D2C16-18B4-4A81-823A-DE8782F24036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D74258-34D7-4E28-90DA-E00B7466608A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D74258-34D7-4E28-90DA-E00B7466608A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D74258-34D7-4E28-90DA-E00B7466608A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D74258-34D7-4E28-90DA-E00B7466608A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DF419C-FE50-48C4-987F-16DC5E3E46AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DF419C-FE50-48C4-987F-16DC5E3E46AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DF419C-FE50-48C4-987F-16DC5E3E46AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DF419C-FE50-48C4-987F-16DC5E3E46AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E68BE21A-0163-47FD-B0E6-15C9B1FC7155}
+	EndGlobalSection
+EndGlobal
